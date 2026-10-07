@@ -1,0 +1,240 @@
+{
+  "franchise": "Marvel Universe",
+  "profiles": [
+    {
+      "slug": "iron-man",
+      "name": "Tony Stark",
+      "series": "Avengers"
+    },
+    {
+      "slug": "captain-america",
+      "name": "Steve Rogers",
+      "series": "Avengers"
+    },
+    {
+      "slug": "thor",
+      "name": "Thor Odinson",
+      "series": "Avengers"
+    },
+    {
+      "slug": "black-widow",
+      "name": "Natasha Romanova",
+      "series": "Avengers"
+    },
+    {
+      "slug": "hawkeye",
+      "name": "Clint Barton",
+      "series": "Avengers"
+    },
+    {
+      "slug": "hulk",
+      "name": "Bruce Banner",
+      "series": "Avengers"
+    },
+    {
+      "slug": "wanda",
+      "name": "Wanda Maximoff",
+      "series": "Avengers"
+    },
+    {
+      "slug": "vision",
+      "name": "Vision",
+      "series": "Avengers"
+    },
+    {
+      "slug": "falcon",
+      "name": "Sam Wilson",
+      "series": "Avengers"
+    },
+    {
+      "slug": "war-machine",
+      "name": "James Rhodes",
+      "series": "Avengers"
+    },
+    {
+      "slug": "doctor-strange",
+      "name": "Stephen Strange",
+      "series": "Sorcery"
+    },
+    {
+      "slug": "wong",
+      "name": "Wong",
+      "series": "Sorcery"
+    },
+    {
+      "slug": "phil-coulson",
+      "name": "Phil Coulson",
+      "series": "Sorcery"
+    },
+    {
+      "slug": "ant-man",
+      "name": "Scott Lang",
+      "series": "Sorcery"
+    },
+    {
+      "slug": "wasp",
+      "name": "Hope Van Dyne",
+      "series": "Sorcery"
+    },
+    {
+      "slug": "star-lord",
+      "name": "Star-Lord",
+      "series": "Guardians"
+    },
+    {
+      "slug": "gamora",
+      "name": "Gamora",
+      "series": "Guardians"
+    },
+    {
+      "slug": "rocket",
+      "name": "Rocket Raccoon",
+      "series": "Guardians"
+    },
+    {
+      "slug": "drax",
+      "name": "Drax the Destroyer",
+      "series": "Guardians"
+    },
+    {
+      "slug": "groot",
+      "name": "Groot",
+      "series": "Guardians"
+    },
+    {
+      "slug": "nebula",
+      "name": "Nebula",
+      "series": "Guardians"
+    },
+    {
+      "slug": "captain-marvel",
+      "name": "Captain Marvel",
+      "series": "Guardians"
+    },
+    {
+      "slug": "mantis",
+      "name": "Mantis",
+      "series": "Guardians"
+    },
+    {
+      "slug": "professor-x",
+      "name": "Professor Charles Xavier",
+      "series": "XMen"
+    },
+    {
+      "slug": "wolverine",
+      "name": "Wolverine",
+      "series": "XMen"
+    },
+    {
+      "slug": "storm",
+      "name": "Storm",
+      "series": "XMen"
+    },
+    {
+      "slug": "cyclops",
+      "name": "Cyclops",
+      "series": "XMen"
+    },
+    {
+      "slug": "jean-grey",
+      "name": "Jean Grey",
+      "series": "XMen"
+    },
+    {
+      "slug": "rogue",
+      "name": "Rogue",
+      "series": "XMen"
+    },
+    {
+      "slug": "beast",
+      "name": "Beast",
+      "series": "XMen"
+    },
+    {
+      "slug": "mystique",
+      "name": "Mystique",
+      "series": "XMen"
+    },
+    {
+      "slug": "daredevil",
+      "name": "Daredevil",
+      "series": "Street"
+    },
+    {
+      "slug": "spider-man",
+      "name": "Spider-Man",
+      "series": "Street"
+    },
+    {
+      "slug": "black-panther",
+      "name": "Black Panther",
+      "series": "Street"
+    },
+    {
+      "slug": "punisher-the-red-team",
+      "name": "The Punisher",
+      "series": "Street"
+    },
+    {
+      "slug": "luke-cage",
+      "name": "Luke Cage",
+      "series": "Street"
+    },
+    {
+      "slug": "jessica-jones",
+      "name": "Jessica Jones",
+      "series": "Street"
+    },
+    {
+      "slug": "shang-chi",
+      "name": "Shang-Chi",
+      "series": "Street"
+    },
+    {
+      "slug": "thanos-the-red-team",
+      "name": "Thanos",
+      "series": "Villain"
+    },
+    {
+      "slug": "loki-the-red-team",
+      "name": "Loki",
+      "series": "Villain"
+    },
+    {
+      "slug": "ultron-the-red-team",
+      "name": "Ultron",
+      "series": "Villain"
+    },
+    {
+      "slug": "killmonger-the-red-team",
+      "name": "Killmonger",
+      "series": "Villain"
+    },
+    {
+      "slug": "magneto-the-red-team",
+      "name": "Magneto",
+      "series": "Villain"
+    },
+    {
+      "slug": "venom-the-red-team",
+      "name": "Venom",
+      "series": "Villain"
+    },
+    {
+      "slug": "green-goblin-the-red-team",
+      "name": "Green Goblin",
+      "series": "Villain"
+    },
+    {
+      "slug": "doctor-doom-the-red-team",
+      "name": "Doctor Doom",
+      "series": "Villain"
+    },
+    {
+      "slug": "red-skull-the-red-team",
+      "name": "Red Skull",
+      "series": "Villain"
+    }
+  ]
+}

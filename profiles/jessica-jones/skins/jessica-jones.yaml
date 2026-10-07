@@ -1,0 +1,15 @@
+# Terminal skin
+theme:
+  banner_border: "#4D0C0C"
+  banner_title: "#CE835F"
+  banner_accent: "#A93226"
+  banner_dim: "#330D0D"
+  banner_text: "#F9EEE8"
+  ui_accent: "#E49975"
+  ui_label: "#AE372B"
+  prompt: "#FBF0EA"
+  input_rule: "#622121"
+  response_border: "#DA8F6B"
+  status_bar_bg: "#1F0E0E"
+  session_label: "#D78C68"
+  session_border: "#350F0F"
